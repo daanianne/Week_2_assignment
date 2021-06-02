@@ -1,0 +1,60 @@
+.row {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    
+}
+
+.toronto {
+    width: 400px;
+    height: 400px;
+    margin-right: 15px;
+}
+
+.img1{
+    margin-left: 5px;
+}
+
+.img3{
+    margin-right: 0;
+}
+
+.block1{
+    margin-bottom: 20px;
+}
+
+.motherboard{
+    margin: auto;
+    width: min-content;
+}
+
+.footer{
+    font-size: 18px;
+    color: #999;
+    text-align: center;
+}
+
+.textbox{
+    background-color: #eee;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    width: 250px;
+}
+
+.header{
+    background-color: #000;
+    color: #fff;
+    margin-block-start: 0 !important;
+    margin-inline-start: 0 !important;
+    margin-inline-end: 0 !important;
+    margin-block-end: 0 !important;
+    margin: 0;
+    text-align: center;
+}
+
+img.img1, img.img2, img.img3{
+    width: 200px;
+    height: 300px;
+    margin-right: 50px; 
+}
